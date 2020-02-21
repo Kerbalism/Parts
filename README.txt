@@ -27,3 +27,13 @@ X - TICK - Transmissible investigation of cosmic knowledge	-Currently on restock
 X - WING - Wandering Investigation Not on the Ground
 Curve - Checking Undulating Radial Vectors of Environment: Checking roundness of the atmosphere
 CLOUD - Cumulative Longitudinal Overland Understating of Dynamic - Aircraft experiment
+
+
+-----------------------
+   Folder Structure
+-----------------------
+
+Sources - All blender files and layer textures used for the parts listed by folders.
+-----Note: Blender files utilize a plugin called TexTools, I used this for baking diffuse maps.
+
+Unity - Unity setup for exporting the parts out to the game.
