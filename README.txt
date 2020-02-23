@@ -25,7 +25,7 @@ X - BEEP - Biome Exclusive Experiment Package
 X - DING - Dynamic investigation of Null Gravity			-Currently on restock survey scanner
 X - TICK - Transmissible investigation of cosmic knowledge	-Currently on restock survey scanner
 X - WING - Wandering Investigation Not on the Ground
-Curve - Checking Undulating Radial Vectors of Environment: Checking roundness of the atmosphere
+x - CURVE - Checking Undulating Radial Vectors of Environment: Checking roundness of the atmosphere
 CLOUD - Cumulative Longitudinal Overland Understating of Dynamic - Aircraft experiment
 
 
