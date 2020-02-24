@@ -37,3 +37,5 @@ Sources - All blender files and layer textures used for the parts listed by fold
 -----Note: Blender files utilize a plugin called TexTools, I used this for baking diffuse maps.
 
 Unity - Unity setup for exporting the parts out to the game.
+
+Compiled - KSP Ready files with some example scripts. (Scripts may be old and not relevant to current Kerbalism setup: Suggested Do not use)
