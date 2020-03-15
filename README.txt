@@ -11,13 +11,13 @@ X - More Generators for the tank, made 2 Gas & Liquid processing
 Not Needed - Spherical Tank - Similar to Surface tanks
 X - Radiation Shield - SRS2 based, surface mounted magnetic rings to be paired around the surface of a ship
 P - Ring habitat
-Greenhouse
+P - Greenhouse (X - Exterior, P-Interior)
 Atmospheric Extractor
 Oceanic Pumps
 
 -- Surface attach chemical processors --
 Electrolysis - water to o2 & H
-Haber - Hydrogen + Nitrogen > Ammonia
+X - Haber - Hydrogen + Nitrogen > Ammonia <- Markolise Model / Arkolis Texture
 Sabatier - C02 + H > Water + Liquid fuel
 
 -- Custom Science Part - Multiple experiments --

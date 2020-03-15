@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Icon_Hidden
+  - Internal Space
+  - Kerbals
+  - Part Triggers
   layers:
   - Default
   - TransparentFX
@@ -22,12 +25,12 @@ TagManager:
   - 
   - 
   - 
+  - Kerbals
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Internal Space
+  - Part Triggers
   - 
   - 
   - 
